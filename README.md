@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @udechukwu-ekene
-- 👀 I’m interested in frontend development
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on website projects
-- 📫 How to reach me ...
+- 👀 I’m interested in frontend & backend development
+- 🌱 I’m currently learning Backend Framework 
+- 💞️ I’m looking to collaborate on web-app projects
+- 📫 How to reach me (08130507859)
 
 <!---
 udechukwu-ekene/udechukwu-ekene is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
